@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.JPG
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: shivammk27
+      href: https://twitter.com
+    - icon: linkedin
+      text: shivammk27
+      href: https://linkedin.com
+    - icon: github
+      text: shivammk27
+      href: https://github.com
+
+---
+
+Hi, I am Shivam Kushwaha. I am a Data Science Intern at Paytm.
